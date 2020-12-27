@@ -5,8 +5,8 @@ Learning to build Android apps using Android Studio with Kotlin
 
 # Android Studio Topics: 
 
-[ ] Intents 
-[ ] Context
-[ ] Views
-[ ] Coroutines
-[ ] 
+- [ ] Intents 
+- [ ] Context
+- [ ] Views
+- [ ] Coroutines
+- [ ] 
