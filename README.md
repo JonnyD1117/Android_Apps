@@ -2,7 +2,6 @@
 Learning to build Android apps using Android Studio with Kotlin
 
 
-
 # Android Studio Topics: 
 
 - [ ] Activities
@@ -12,7 +11,19 @@ Learning to build Android apps using Android Studio with Kotlin
 - [ ] Coroutines
 - [ ] Chat Messages 
 - [ ] Gradle Dependencies 
-- [ ] SMS
-- [ ] Camera 
 - [ ] Permissions Structure
-- [ ] Game Design
+
+# Interesting Apps to Attempt: 
+- [ ] SMS
+- [ ] Instant Messaging 
+- [ ] Real Time Graphs 
+- [ ] Bluetooth Functionality 
+- [ ] Camera 
+- [ ] Game
+
+
+# Application Ideas: 
+
+- [ ] Morse Code Application 
+- [ ] ROS Robot Monitor 
+- [ ] Android Signal Monitor
