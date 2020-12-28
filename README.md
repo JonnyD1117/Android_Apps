@@ -20,6 +20,7 @@ Learning to build Android apps using Android Studio with Kotlin
 - [ ] Bluetooth Functionality 
 - [ ] Camera 
 - [ ] Game
+- [ ] Music App
 
 
 # Application Ideas: 
@@ -27,3 +28,5 @@ Learning to build Android apps using Android Studio with Kotlin
 - [ ] Morse Code Application 
 - [ ] ROS Robot Monitor 
 - [ ] Android Signal Monitor
+- [ ] Spotify Clone 
+
